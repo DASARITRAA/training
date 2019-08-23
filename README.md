@@ -1,2 +1,2 @@
-# training
-this is a simple training program
+# Simple example repository
+this is just an example for training
